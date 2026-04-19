@@ -1,0 +1,27 @@
+# Папки с данными
+Аптеки/
+Входящие/
+Результат/
+
+# Архивы
+*.zip
+*.rar
+*.7z
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.DS_Store
+
+# Excel файлы с результатами
+*.xlsx
+*.xls
+
+# Личные данные
+*.csv
+!example*.csv
+
+# IDE
+.vscode/
+.idea/
